@@ -18,3 +18,14 @@ D:\gitPersonal\CPP_API\CPP.Entities\bin\Debug\netcoreapp3.1\CPP.Entities.runtime
 D:\gitPersonal\CPP_API\CPP.Entities\bin\Debug\netcoreapp3.1\CPP.Entities.runtimeconfig.dev.json
 D:\gitPersonal\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.csproj.CoreCompileInputs.cache
 D:\gitPersonal\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.genruntimeconfig.cache
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\bin\Debug\netcoreapp3.1\CPP.Entities.deps.json
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\bin\Debug\netcoreapp3.1\CPP.Entities.runtimeconfig.json
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\bin\Debug\netcoreapp3.1\CPP.Entities.runtimeconfig.dev.json
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\bin\Debug\netcoreapp3.1\CPP.Entities.dll
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\bin\Debug\netcoreapp3.1\CPP.Entities.pdb
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.csprojAssemblyReference.cache
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.AssemblyInfoInputs.cache
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.AssemblyInfo.cs
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.dll
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.pdb
+C:\Users\ignacio.mariscal\Documents\Personal\Ortiz\CPPApi\CPP_API\CPP.Entities\obj\Debug\netcoreapp3.1\CPP.Entities.genruntimeconfig.cache

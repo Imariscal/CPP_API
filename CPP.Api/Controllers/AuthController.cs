@@ -71,6 +71,7 @@ namespace CPP.Api.Controllers
             {
                 BadRequest();
             }
+ 
             return Ok(auth);
         }
     }

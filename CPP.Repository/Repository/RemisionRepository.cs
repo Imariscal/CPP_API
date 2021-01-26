@@ -42,6 +42,7 @@ namespace CPP.Repository.Repository
                                                 sucursal_id = suc.Id,
                                                 proveedor = prov.nombre,
                                                 numero_remision = r.numero_remision
+
                                             });
 
             return await query.ToArrayAsync();

@@ -38,7 +38,8 @@ namespace CPP.Repository.Repository
                                                   forma_pago = fp.forma_pago,
                                                   estado_id = er.Id,
                                                   fecha_real_pago = r.fecha_real_pago,
-                                                  monto = r.cantidad
+                                                  monto = r.cantidad,
+                                                  sucursal_id = suc.Id
                                               });
 
             return await query.ToArrayAsync();

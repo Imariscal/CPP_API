@@ -13,7 +13,7 @@ namespace CPP.Entities.Dtos
 
         public int sucursal_id { get; set; }
 
-        public string sucursal  { get; set; }
+        public string sucursal  { get; set; } 
 
         public string proveedor { get; set; }
 

@@ -88,7 +88,7 @@ namespace CPP.Api.Controllers
         {
             try
             {
-                var results = await _repository.GetPagoRemisiones(proveedorId, sucursalId);
+               var results = await _repository.GetPagoRemisiones(proveedorId, sucursalId);
                 return Ok(results);
             }
             catch (Exception err)

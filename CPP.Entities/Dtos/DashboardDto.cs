@@ -25,5 +25,7 @@ namespace CPP.Entities.Dtos
 
         public string estado { get; set; }
 
+        public int sucursal_id { get; set; }
+
     }
 }
